@@ -1,0 +1,6 @@
+python-dotenv
+pandas
+notebook
+ipykernel
+lida
+openai
